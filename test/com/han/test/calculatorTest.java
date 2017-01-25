@@ -60,5 +60,6 @@ public class calculatorTest {
 		calc.calculate(map);
 		
 		
+		
 	}
 }
